@@ -1,7 +1,5 @@
 # PZXExcelView
-类似excel或者前端表格样式的控件（原生没有写一个方便使用）
-
-下载地址在底部
+类似excel或者前端表格样式的控件（原生没有，写一个方便使用）
 ## 查看效果
 ![表格.gif](https://upload-images.jianshu.io/upload_images/19409325-ad3629142f04d8a6.gif?imageMogr2/auto-orient/strip)
 

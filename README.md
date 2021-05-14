@@ -2,18 +2,18 @@
 类似excel或者前端表格样式的控件（原生没有写一个方便使用）
 
 下载地址在底部
-##查看效果
+## 查看效果
 ![表格.gif](https://upload-images.jianshu.io/upload_images/19409325-ad3629142f04d8a6.gif?imageMogr2/auto-orient/strip)
 
-##实现思路
+## 实现思路
 顶部是一个单独的view view左边是一个单独的view 右边为collectionView
 下面是一个tableView，Cell左边是单独的View右边为collectionView
 
-##使用方法
+## 使用方法
 将PZXExcelView 文件夹放入你的代码中
 在需要的页面 #import "PZXExcelView.h"
 
-##具体代码
+## 具体代码
 ```
     PZXExcelView *excelView = [[PZXExcelView alloc]initWithFrame:CGRectMake(0, 64, self.view.frame.size.width, self.view.frame.size.height-100)];
     excelView.backgroundColor = [UIColor lightGrayColor];
